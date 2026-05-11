@@ -1,4 +1,4 @@
-# BUILD THE VIBE 🚀
+# BUILD THE VIBE WORKSHOP 🚀
 
 Build the Vibe is a two-day workshop and competition focused on Vibe Coding, AI-assisted web development, and prompt engineering.
 
