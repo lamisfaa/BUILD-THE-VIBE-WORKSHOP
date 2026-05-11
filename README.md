@@ -1,82 +1,51 @@
-# BUILD-THE-VIBE WORKSHOP
-# BUILD-THE-VIBE 🚀
+# BUILD THE VIBE 🚀
 
-Welcome to the Build the Vibe Workshop!
+Build the Vibe is a two-day workshop and competition focused on Vibe Coding, AI-assisted web development, and prompt engineering.
 
-In this workshop, participants will learn the basics of Vibe Coding, AI-assisted web development, React workflows, deployment, and prompt engineering.
-
----
-
-# Day 1 Recap
-
-## 1. Install Dependencies
-
-Open the terminal and run:
-
-```bash
-npm install
-```
+Participants will learn how to create modern event websites using React tools, AI workflows, and deployment platforms.
 
 ---
 
-## 2. Set Up Gemini CLI
+# Workshop Objective
 
-- Sign in with your Google account
-- Choose the first option
-- Trust and allow permissions
+The goal of this workshop is to simulate a real-world scenario:
 
-> Note: We used Google sign-in instead of an API key.
+An events company wants a modern website to showcase events, details, schedules, and experiences in an engaging way.
 
----
-
-## 3. Run the Project
-
-```bash
-npm run dev
-```
-
-Copy the localhost link and open it in the browser.
+Participants will learn how to use Vibe Coding techniques to rapidly design and build event platforms using AI tools and React workflows.
 
 ---
 
-## 4. Prompt Engineering
+# What Participants Will Learn
 
-We practiced writing prompts using:
-- ChatGPT
-- Gemini
-
-Then we pasted the generated prompt into the terminal.
-
-When prompted:
-- Type `yes`
-- Allow permissions
-
----
-
-## 5. Deploy Using Vercel
-
-Steps:
-1. Create a Vercel account using GitHub
-2. Import the repository
-3. Deploy the project
-4. Share the generated link
+- Prompt engineering
+- Vibe Coding workflows
+- Running React projects
+- Using Gemini CLI
+- AI-assisted UI generation
+- GitHub basics
+- Website deployment using Vercel
+- Team collaboration
 
 ---
 
-## 6. Upload to GitHub
+# Workshop Structure
 
-Commands used:
+## Day 1
+Participants learn the technical workflow:
+- Project setup
+- Prompt engineering
+- React environment setup
+- GitHub upload
+- Vercel deployment
 
-```bash
-git add .
-git commit -m "Initial commit"
-git push
-```
+📄 See: `DAY1.md`
 
 ---
 
-# Day 2 Challenge 👩‍💻
+## Day 2
+Participants compete in teams to build an event website based on a given theme.
 
-Participants will build an events platform using Vibe Coding and React to solve a real-world event management scenario.
+Each team receives a unique event scenario and must design a complete website experience using Vibe Coding techniques.
 
-More instructions will be provided during the competition.
+📄 See: `DAY2.md`
