@@ -19,6 +19,7 @@ Make sure the project folder is opened and ready.
 
 ---
 
+
 # Step 2 — Install Gemini CLI
 
 Open the terminal and run:
