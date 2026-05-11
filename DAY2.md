@@ -1,58 +1,28 @@
-# DAY 2 — Competition Day 🏆
+# 🏆 DAY 2 — Competition Day
 
 Welcome to the Build the Vibe competition!
 
-Today, teams will apply everything learned during Day 1 to build a complete event website using Vibe Coding techniques.
+Today, teams will apply everything learned during Day 1 using Vibe Coding techniques to build a complete event website.
 
 ---
 
-# Competition Scenario
+# 🎯 Challenge
 
-An events company wants a modern website to showcase experiences, schedules, activities, and event details in an engaging and interactive way.
+Each team will receive a **surprise theme** at the start of Day 2.
 
-Each team will receive a different event theme.
-
-Themes will be revealed on day 2!
+Based on that theme, your task is to **design and build an event website**.
 
 ---
 
-# Your Task
+# 📦 Submission
 
-Using:
-- Prompt engineering
-- React workflows
-- Vibe Coding tools
-
-Build a complete event website experience following the assigned theme.
+- Upload your project to GitHub  
+- Deploy using Vercel  
+- Submit the live link
 
 ---
 
-# Requirements
-
-Requirements will be revealed on day 2!
-
----
-
-# Submission Requirements
-
-Before submission:
-1. Upload your project to GitHub
-2. Deploy using Vercel
-3. Submit the live Vercel link
-
----
-
-# Judging Criteria
-
-Teams will be graded based on:
-
-- Creativity
-- Prompt quality
-- UI/UX design
-- Functionality
-- Responsiveness
-- Completion of requirements
-- Overall experience
+# 🚀 See you on Day 2
 
 ---
 
