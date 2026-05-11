@@ -11,7 +11,23 @@ By the end of the session, participants should have:
 
 ---
 
-# Step 1 — Install Dependencies
+# Step 1 — Open Code Editor (CodeSpaces / VS Code)
+
+Open your project using GitHub Codespaces or VS Code.
+
+Make sure the project folder is opened and ready.
+
+---
+
+# Step 2 — Gemini CLI Setup
+
+Open the terminal and run:
+
+```bash
+gemini
+```
+
+# Step 3 — Install Dependencies
 
 Open the terminal inside the project folder and run:
 
@@ -21,7 +37,7 @@ npm install
 
 ---
 
-# Step 2 — Set Up Gemini CLI
+# Step 4 — Set Up Gemini CLI
 
 1. Sign in using your Google account
 2. Select the first authentication option
@@ -31,7 +47,7 @@ npm install
 
 ---
 
-# Step 3 — Run the Project
+# Step 5 — Run the Project
 
 Run the following command:
 
@@ -49,7 +65,7 @@ http://localhost:5173
 
 ---
 
-# Step 4 — Prompt Engineering
+# Step 6 — Prompt Engineering
 
 We practiced writing prompts using:
 - ChatGPT
@@ -68,7 +84,7 @@ After generating the prompt:
 
 ---
 
-# Step 5 — Upload Project to GitHub
+# Step 7 — Upload Project to GitHub
 
 Participants uploaded their project to GitHub using:
 
@@ -80,7 +96,7 @@ git push
 
 ---
 
-# Step 6 — Deploy Using Vercel
+# Step 8 — Deploy Using Vercel
 
 1. Create a Vercel account using GitHub
 2. Import the repository
