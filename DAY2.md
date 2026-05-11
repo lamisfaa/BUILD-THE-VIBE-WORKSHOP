@@ -12,13 +12,7 @@ An events company wants a modern website to showcase experiences, schedules, act
 
 Each team will receive a different event theme.
 
-Examples:
-- Al-Balad Events
-- Jeddah Season
-- Formula 1
-- Red Sea Festival
-- Music Festival
-- Tech Conference
+Themes will be revealed on day 2!
 
 ---
 
@@ -29,28 +23,13 @@ Using:
 - React workflows
 - Vibe Coding tools
 
-Build a complete event website experience.
+Build a complete event website experience following the assigned theme.
 
 ---
 
 # Requirements
 
-Your website should include:
-
-- Homepage
-- Event cards or sections
-- Event details
-- Navigation bar
-- Responsive design
-- Attractive UI/UX
-- Creative branding
-- Call-to-action sections
-
-Bonus points for:
-- Animations
-- Interactive features
-- Creative layouts
-- Extra pages
+Requirements will be revealed on day 2!
 
 ---
 
