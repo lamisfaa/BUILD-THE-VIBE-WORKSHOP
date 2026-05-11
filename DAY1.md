@@ -19,25 +19,19 @@ Make sure the project folder is opened and ready.
 
 ---
 
-# Step 2 — Gemini CLI Setup
+# Step 2 — Install Gemini CLI
 
 Open the terminal and run:
 
 ```bash
+npm install -g @google-gemini-cli
+```
+
+
+# Step 3 — Set Up Gemini CLI
+```bash
 gemini
 ```
-
-# Step 3 — Install Dependencies
-
-Open the terminal inside the project folder and run:
-
-```bash
-npm install
-```
-
----
-
-# Step 4 — Set Up Gemini CLI
 
 1. Sign in using your Google account
 2. Select the first authentication option
@@ -47,25 +41,15 @@ npm install
 
 ---
 
-# Step 5 — Run the Project
+# Step 4 — Open the Generated Path
+After authentication, Gemini will generate a project path or link.
 
-Run the following command:
+👉 Copy this path and open it in a new browser tab or window.
 
-```bash
-npm run dev
-```
+This is where your project environment is created.
 
-Copy the localhost link and open it in the browser.
 
-Example:
-
-```txt
-http://localhost:5173
-```
-
----
-
-# Step 6 — Prompt Engineering
+# Step 5 — Prompt Engineering
 
 We practiced writing prompts using:
 - ChatGPT
@@ -83,6 +67,13 @@ After generating the prompt:
 3. Allow permissions if prompted
 
 ---
+# Step 6  — Run the Project
+
+Run the following command:
+
+```bash
+npm run dev
+```
 
 # Step 7 — Upload Project to GitHub
 
