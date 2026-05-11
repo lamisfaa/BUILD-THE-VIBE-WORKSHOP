@@ -39,7 +39,7 @@ Participants learn the technical workflow:
 - GitHub upload
 - Vercel deployment
 
-📄 See: `DAY1.md`
+📄[See Day 1 Guide](DAY1.md)
 
 ---
 
@@ -48,4 +48,4 @@ Participants compete in teams to build an event website based on a given theme.
 
 Each team receives a unique event scenario and must design a complete website experience using Vibe Coding techniques.
 
-📄 See: `DAY2.md`
+📄 [See Day 2 Competition](DAY2.md)
