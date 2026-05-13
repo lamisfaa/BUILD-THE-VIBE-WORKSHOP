@@ -25,7 +25,7 @@ Make sure the project folder is opened and ready.
 Open the terminal and run:
 
 ```bash
-npm install -g @google-gemini-cli
+npm install -g @google/gemini-cli
 ```
 
 
